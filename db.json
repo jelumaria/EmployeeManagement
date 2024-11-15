@@ -1,0 +1,16 @@
+{
+  "employees": [
+    {
+      "id": "f55f",
+      "name": "Jaleena Maria Thomas",
+      "email": "jaleenamaria095@gmail.com",
+      "status": "inactive"
+    },
+    {
+      "id": "f982",
+      "name": "deepu thomas",
+      "email": "jaleena234@gmail.com",
+      "status": "active"
+    }
+  ]
+}
